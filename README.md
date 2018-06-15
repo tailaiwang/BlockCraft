@@ -1,6 +1,6 @@
 # JavaMinecraft
-###ICS 4U FSE
-#####Navidur Rahman, Hamza Saqib, Tailai Wang
+### ICS 4U FSE
+##### Navidur Rahman, Hamza Saqib, Tailai Wang
 Minecraft: A Java Remake
 
 This is a Minecraft Remake done entirely from Scratch! We utilized resources from the Minecraft WIKI to complete this project!
