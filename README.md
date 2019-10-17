@@ -1,4 +1,4 @@
-# JavaMinecraft
+# BlockCraft
 ### ICS 4U FSE
 ##### Navidur Rahman, Hamza Saqib, Tailai Wang
 Minecraft: A Java Remake
